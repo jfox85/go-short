@@ -1,0 +1,9 @@
+[DEFAULT]
+db-name: go-short
+db-user: user
+db-pass: pass
+
+base-url: http://your.url
+listen-port: 80
+timeout: 30
+
